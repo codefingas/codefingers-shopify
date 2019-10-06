@@ -1,6 +1,0 @@
-development:
-  password: 63eb3937c4b363001b6b79b1834fc56d
-  theme_id: "74975903825"
-  store: codefingers.myshopify.com
-  ignore_files: 
-    - config/.gitignore
